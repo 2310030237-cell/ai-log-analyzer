@@ -1,0 +1,277 @@
+{
+  "report_name": "log_analysis_report_20260409_094127",
+  "generated_at": "2026-04-09T09:41:28.078882",
+  "aggregations": {
+    "total_records": 49328,
+    "processing_timestamp": "2026-04-09T09:40:13.117830",
+    "level_distribution": {
+      "INFO": 22977,
+      "ERROR": 10562,
+      "CRITICAL": 7603,
+      "WARNING": 5528,
+      "DEBUG": 2658
+    },
+    "hourly_distribution": {
+      "0": 1260,
+      "1": 1897,
+      "2": 2069,
+      "3": 1452,
+      "4": 2209,
+      "5": 1157,
+      "6": 1326,
+      "7": 1500,
+      "8": 2184,
+      "9": 10016,
+      "10": 1110,
+      "11": 2250,
+      "12": 1596,
+      "13": 2856,
+      "14": 1272,
+      "15": 2334,
+      "16": 1728,
+      "17": 1764,
+      "18": 1152,
+      "19": 1872,
+      "20": 1650,
+      "21": 1890,
+      "22": 1308,
+      "23": 1476
+    },
+    "daily_counts": {
+      "2026-03-10": 624,
+      "2026-03-11": 1410,
+      "2026-03-12": 972,
+      "2026-03-13": 1290,
+      "2026-03-14": 1050,
+      "2026-03-15": 1698,
+      "2026-03-16": 1284,
+      "2026-03-17": 990,
+      "2026-03-18": 1434,
+      "2026-03-19": 1002,
+      "2026-03-20": 1830,
+      "2026-03-21": 810,
+      "2026-03-22": 1110,
+      "2026-03-23": 1908,
+      "2026-03-24": 1470,
+      "2026-03-25": 1416,
+      "2026-03-26": 912,
+      "2026-03-27": 1266,
+      "2026-03-28": 1338,
+      "2026-03-29": 2040,
+      "2026-03-30": 1458,
+      "2026-03-31": 1644,
+      "2026-04-01": 1104,
+      "2026-04-02": 1530,
+      "2026-04-03": 1320,
+      "2026-04-04": 894,
+      "2026-04-05": 1752,
+      "2026-04-06": 1494,
+      "2026-04-07": 1476,
+      "2026-04-08": 1266,
+      "2026-04-09": 9536
+    },
+    "error_count": 18165,
+    "error_rate": 36.82,
+    "top_endpoints": {},
+    "top_ips": {},
+    "top_services": {
+      "cache-service": 5310,
+      "notification-service": 5250,
+      "payment-service": 5214,
+      "order-service": 5196,
+      "user-service": 4914,
+      "api-gateway": 4908,
+      "search-service": 4902,
+      "auth-service": 4890
+    },
+    "status_distribution": {
+      "201.0": 2526,
+      "302.0": 2484,
+      "204.0": 2358,
+      "200.0": 2268,
+      "301.0": 2244,
+      "304.0": 2184,
+      "504.0": 2040,
+      "502.0": 2010,
+      "500.0": 2004,
+      "503.0": 1992
+    },
+    "duration_stats": {
+      "mean": 5936.96,
+      "p50": 392.0,
+      "p95": 26138.0,
+      "p99": 29407.74,
+      "max": 29983.0
+    },
+    "time_bucket_distribution": {
+      "morning": 18656,
+      "night": 11370,
+      "afternoon": 11106,
+      "evening": 8196
+    }
+  },
+  "anomaly_summary": {
+    "total_records": 49328,
+    "total_anomalies": 2467,
+    "anomaly_rate": 5.0,
+    "severity_distribution": {
+      "medium": 2467,
+      "critical": 0,
+      "high": 0,
+      "normal": 0
+    },
+    "score_stats": {
+      "mean": 0.1258,
+      "std": 0.068,
+      "anomaly_threshold": -0.0001
+    },
+    "top_anomalous_features": {
+      "duration_ms": 9.0222,
+      "is_error_status": 7.2482,
+      "is_server_error": 7.2482,
+      "is_slow": 7.2482,
+      "hour_cos": 3.5459,
+      "duration_log": 2.545,
+      "is_night": 2.2295,
+      "uppercase_ratio": 1.8405,
+      "is_weekend": 1.7869,
+      "has_error_keyword": 1.6169
+    }
+  },
+  "pattern_summary": {
+    "n_patterns": 10,
+    "algorithm": "kmeans",
+    "patterns": {
+      "pattern_0": {
+        "size": 34004,
+        "percentage": 68.93,
+        "top_keywords": [
+          "user",
+          "failed",
+          "authentication",
+          "detected",
+          "unreachable"
+        ],
+        "representative_message": "Title,Name,Review Date,Airline,Verified,Reviews,Type of Traveller,Month Flown,Route,Class,Seat Comfort,Staff Service,Food & Beverages,Inflight Entertainment,Value For Money,Overall Rating,Recommended"
+      },
+      "pattern_1": {
+        "size": 1740,
+        "percentage": 3.53,
+        "top_keywords": [
+          "stats",
+          "pool stats",
+          "stats active",
+          "active idle",
+          "idle"
+        ],
+        "representative_message": "Connection pool stats: active=22, idle=6"
+      },
+      "pattern_2": {
+        "size": 1350,
+        "percentage": 2.74,
+        "top_keywords": [
+          "o error",
+          "sda1",
+          "failure o",
+          "error dev",
+          "disk failure"
+        ],
+        "representative_message": "DISK FAILURE: I/O error on /dev/sda1"
+      },
+      "pattern_3": {
+        "size": 1974,
+        "percentage": 4.0,
+        "top_keywords": [
+          "request processed",
+          "processed successfully",
+          "processed",
+          "request",
+          "successfully"
+        ],
+        "representative_message": "Request processed successfully"
+      },
+      "pattern_4": {
+        "size": 2544,
+        "percentage": 5.16,
+        "top_keywords": [
+          "rate limit",
+          "api rate",
+          "limit",
+          "rate",
+          "api"
+        ],
+        "representative_message": "API rate limit check passed"
+      },
+      "pattern_5": {
+        "size": 1212,
+        "percentage": 2.46,
+        "top_keywords": [
+          "process killed",
+          "oom killer",
+          "oom",
+          "memory exhausted",
+          "killed oom"
+        ],
+        "representative_message": "MEMORY EXHAUSTED: Process killed by OOM killer"
+      },
+      "pattern_6": {
+        "size": 1602,
+        "percentage": 3.25,
+        "top_keywords": [
+          "systems operational",
+          "check systems",
+          "health check",
+          "operational",
+          "systems"
+        ],
+        "representative_message": "Health check: all systems operational"
+      },
+      "pattern_7": {
+        "size": 1740,
+        "percentage": 3.53,
+        "top_keywords": [
+          "query completed",
+          "database query",
+          "query",
+          "completed",
+          "database"
+        ],
+        "representative_message": "Database query completed in 204ms"
+      },
+      "pattern_8": {
+        "size": 1668,
+        "percentage": 3.38,
+        "top_keywords": [
+          "cache",
+          "key cache",
+          "hit key",
+          "cache hit",
+          "key"
+        ],
+        "representative_message": "Cache hit for key: cache:session:5981"
+      },
+      "pattern_9": {
+        "size": 1494,
+        "percentage": 3.03,
+        "top_keywords": [
+          "reloaded",
+          "reloaded successfully",
+          "configuration reloaded",
+          "configuration",
+          "successfully"
+        ],
+        "representative_message": "Configuration reloaded successfully"
+      }
+    }
+  },
+  "nlp_summary": {
+    "total_messages": 49328,
+    "insights": [
+      "[!] 8767 messages contain CRITICAL severity indicators",
+      "[!] 14732 messages contain HIGH severity indicators",
+      "Most frequent terms: flight, class, airline, service, economy",
+      "Vocabulary richness: 2.5%"
+    ],
+    "generated_at": "2026-04-09T09:41:10.227347"
+  }
+}

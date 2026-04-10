@@ -1,0 +1,574 @@
+Level,Date and Time,Source,Event ID,Task Category
+Information,4/2/2026 2:05:54 PM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T08:35:54Z. Reason: RulesEngine.
+Information,4/2/2026 2:05:39 PM,Universal Print,1,None,"Initialization Successful. Enabled=false, CloudPrintSolution=Unknown, DiscoveryEndpoint=, OAuthAuthority=, OAuthClientId=, DiscoveryResourceId=, PrintResourceId="
+Information,4/2/2026 2:05:39 PM,Universal Print,1,None,Device is neither AAD/Domain Joined or Workplace Joined.
+Information,4/2/2026 2:05:33 PM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 2:05:23 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 2:02:30 PM,brave,0,None,The operation completed successfully. 
+Information,4/2/2026 1:50:06 PM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T08:20:06Z. Reason: RulesEngine.
+Information,4/2/2026 1:49:35 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Error,4/2/2026 1:35:26 PM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 27652.  Message ID: [0x2509].
+Error,4/2/2026 1:33:49 PM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 17064.  Message ID: [0x2509].
+Error,4/2/2026 1:30:04 PM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 19748.  Message ID: [0x2509].
+Error,4/2/2026 1:15:49 PM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 14656.  Message ID: [0x2509].
+Information,4/2/2026 1:14:18 PM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T07:44:18Z. Reason: RulesEngine.
+Information,4/2/2026 1:13:48 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Error,4/2/2026 1:06:43 PM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 20336.  Message ID: [0x2509].
+Information,4/2/2026 1:03:22 PM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T07:33:22Z. Reason: RulesEngine.
+Information,4/2/2026 1:02:51 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 12:58:08 PM,SecurityCenter,15,None,Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+Information,4/2/2026 12:53:19 PM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T07:23:19Z. Reason: RulesEngine.
+Information,4/2/2026 12:52:48 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 12:49:49 PM,Microsoft-Windows-Security-SPP,903,None,"The Software Protection service has stopped.
+"
+Information,4/2/2026 12:49:49 PM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T07:19:49Z. Reason: RulesEngine.
+Information,4/2/2026 12:49:43 PM,Edge,256,Browser Events,[22760:14132:0402/124943.138:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+Information,4/2/2026 12:49:34 PM,Application,9997,Devices,"The description for Event ID 9997 from source Application cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Launch manually
+
+The message resource is present but the message was not found in the message table
+"
+Information,4/2/2026 12:49:20 PM,SecurityCenter,15,None,Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+Information,4/2/2026 12:49:18 PM,SecurityCenter,1,None,The Windows Security Center Service has started.
+Information,4/2/2026 12:49:18 PM,Microsoft-Windows-Security-SPP,902,None,"The Software Protection service has started.
+10.0.26100.8036"
+Information,4/2/2026 12:49:18 PM,Microsoft-Windows-Security-SPP,1003,None,"The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 0567073a-7d74-403b-b2d5-6b35da372d8d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 1b750385-9fe2-49a8-ab55-149d0546395b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 1d873132-f09f-4eb2-bf5a-2e4fb48935e8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 30d469c6-a78f-4476-b5c8-af78d5b6a5fb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 3ae2cc14-ab2d-41f4-972f-5e20142771dc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 4002e33a-524c-4100-8108-131a0d42c0ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 411b3d4f-be6d-4a06-baaa-9cabfc256cae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 58e97c99-f377-4ef1-81d5-4ad5522b5fd8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 653098ee-780d-4863-8cf2-d18399ce413b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 74436dbb-cc17-46de-867f-14906ba4a938, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 8a292df8-d653-4057-8133-a0701792f912, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+13: 8db63db6-4f8f-46d6-a448-66444faaaa72, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: cd918a57-a41b-4c82-8dce-1a538e221a83, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: da9621af-f086-4244-b563-18611e51aa1a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e371d89a-73e8-4b24-a7ff-23a3641dd18e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: ed799377-74b8-4989-a244-14d082e65972, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+Information,4/2/2026 12:49:18 PM,Microsoft-Windows-Security-SPP,1066,None,"Initialization status for service objects.
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+"
+Information,4/2/2026 12:49:18 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 12:49:17 PM,Microsoft-Windows-Security-SPP,900,None,"The Software Protection service is starting.
+Parameters:<explicit>"
+Information,4/2/2026 12:49:17 PM,edgeupdate,0,None,Service stopped.
+Information,4/2/2026 12:49:17 PM,brave,0,None,The operation completed successfully. 
+Error,4/2/2026 12:49:12 PM,SideBySide,59,None,"Activation context generation failed for ""C:\Riot Games\Riot Client\RiotClientServices.exe"".Error in manifest or policy file ""C:\Riot Games\Riot Client\RiotClientServices.exe"" on line 0. Invalid Xml syntax."
+Information,4/2/2026 12:49:03 PM,Comet,256,(1),"The description for Event ID 256 from source Comet cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+[12240:7884:0402/124903.347:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+The message resource is present but the message was not found in the message table
+"
+Information,4/2/2026 12:48:50 PM,Microsoft-Windows-RestartManager,10001,None,Ending session 0 started ‎2026‎-‎04‎-‎02T07:18:49.532030000Z.
+Information,4/2/2026 12:48:50 PM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 21868.
+Information,4/2/2026 12:48:50 PM,MsiInstaller,1033,None,"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufacturer: Portrait Displays, Inc.. Installation success or error status: 1603."
+Information,4/2/2026 12:48:50 PM,MsiInstaller,11708,None,Product: HP Display Control Service -- Installation failed.
+Error,4/2/2026 12:48:50 PM,MsiInstaller,1013,None,Product: HP Display Control Service -- The device is not a supported system. Aborting installation.
+Information,4/2/2026 12:48:49 PM,Microsoft-Windows-RestartManager,10000,None,Starting session 0 - ‎2026‎-‎04‎-‎02T07:18:49.532030000Z.
+Information,4/2/2026 12:48:49 PM,Microsoft-Windows-RestartManager,10001,None,Ending session 0 started ‎2026‎-‎04‎-‎02T07:18:49.129630700Z.
+Information,4/2/2026 12:48:49 PM,Microsoft-Windows-RestartManager,10000,None,Starting session 0 - ‎2026‎-‎04‎-‎02T07:18:49.129630700Z.
+Information,4/2/2026 12:48:49 PM,MsiInstaller,1040,None,Beginning a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 21868.
+Information,4/2/2026 12:48:49 PM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 22504.
+Information,4/2/2026 12:48:49 PM,MsiInstaller,1033,None,"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufacturer: Portrait Displays, Inc.. Installation success or error status: 1603."
+Error,4/2/2026 12:48:49 PM,MsiInstaller,10005,None,"Product: HP Display Control Service -- The installer has encountered an unexpected error installing this package. This may indicate a problem with this package. The error code is 2753. The arguments are: DisplayControl, , "
+Information,4/2/2026 12:48:48 PM,MsiInstaller,1040,None,Beginning a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 22504.
+Information,4/2/2026 12:47:49 PM,Microsoft-Windows-Search,1003,Search service,The Windows Search Service started.
+
+Information,4/2/2026 12:47:47 PM,Microsoft-Windows-Winlogon,6000,None,The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+Information,4/2/2026 12:47:46 PM,Microsoft-Windows-Winlogon,6003,None,The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.
+Information,4/2/2026 12:47:46 PM,HP Comm Recovery,0,None,Version : 2.0.20.0
+Information,4/2/2026 12:47:18 PM,nssm,1008,None,"Started C:\Program Files\Automation Anywhere\Bot Agent\jre\bin\NodeManager.exe -Djdk.xml.xpathExprGrpLimit=0 -Djdk.xml.xpathExprOpLimit=0 -Djdk.xml.xpathTotalOpLimit=0 -Dlog4j.configurationFile=file:///""C:\Program Files\Automation Anywhere\Bot Agent\config\nodemanager-logging.xml"" -Dext.properties.dir=""C:\Program Files\Automation Anywhere\Bot Agent\config"" -jar ""C:\Program Files\Automation Anywhere\Bot Agent\node-manager.jar"" for service Automation Anywhere Bot Agent in C:\Program Files\Automation Anywhere\Bot Agent."
+Information,4/2/2026 12:47:16 PM,PostgreSQL,0,None,Server started and accepting connections
+
+Information,4/2/2026 12:47:16 PM,SafeExamBrowser,0,None,Service started successfully.
+Information,4/2/2026 12:47:16 PM,PostgreSQL,0,None,"2026-04-02 12:47:16 IST LOG:  redirecting log output to logging collector process
+2026-04-02 12:47:16 IST HINT:  Future log output will appear in directory ""log"".
+"
+Information,4/2/2026 12:47:16 PM,PostgreSQL,0,None,Waiting for server startup...
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,Service Started.
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,VMAuthdRunService: WSCSetApplicationCategory succeeded: 0x80000000
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,LogRotation: Rotating to a new log file (keepOld 3) took 0.002312 seconds.
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,LOCALE windows-1252 -> NULL User=4009 System=409
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: curves list prime256v1:secp384r1:secp521r1
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: cipher suites TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: protocol list tls1.2 (openssl flags 0x36000000)
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: protocol min 0x303 max 0x303
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: protocol list tls1.2
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: Server usage
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: curves list prime256v1:secp384r1:secp521r1
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: cipher suites TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: protocol list tls1.2 (openssl flags 0x36000000)
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: protocol min 0x303 max 0x303
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: protocol list tls1.2
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: Client usage
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: OpenSSL using default provider
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,PREF Optional preferences file not found at C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\preferences.ini. Using default values.
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,"[msg.dictionary.load.openFailed] Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\preferences.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,"DictionaryLoad: Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\preferences.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,PREF Optional preferences file not found at C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\config.ini. Using default values.
+
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,"[msg.dictionary.load.openFailed] Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\config.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,"DictionaryLoad: Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\config.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 12:47:16 PM,HP Comm Recovery,0,None,Service started successfully.
+Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,Log for vmauthd version=17.6.4 build=build-24832109 option=Release
+
+Information,4/2/2026 12:47:16 PM,VMware NAT Service,1000,None,Using configuration file: C:\ProgramData\VMware\vmnetnat.conf.
+IP address: 192.168.211.2
+ Subnet: 255.255.255.0
+External IP address: 0.0.0.0
+Device: VMnet8.
+MAC address: 00:50:56:E1:39:FA.
+Ignoring host MAC address: 00:50:56:C0:00:08.
+
+Information,4/2/2026 12:47:16 PM,VMware NAT Service,1000,None,Service started
+Information,4/2/2026 12:47:16 PM,nssm,1040,None,"Service Automation Anywhere Bot Agent received START control, which will be handled."
+Information,4/2/2026 12:47:16 PM,MTKBTSVC,2,None,The system cannot find the file specified. 
+Information,4/2/2026 12:47:16 PM,RtkAudioUniversalService,0,None,The operation completed successfully. 
+Information,4/2/2026 12:47:16 PM,MTKBTSVC,2,None,The system cannot find the file specified. 
+Information,4/2/2026 12:47:16 PM,MTKBTSVC,5,None,Access is denied. 
+Information,4/2/2026 12:47:15 PM,Microsoft-Windows-WMI,5617,None,Windows Management Instrumentation Service subsystems initialized successfully
+Information,4/2/2026 12:47:14 PM,Microsoft-Windows-WMI,5615,None,Windows Management Instrumentation Service started sucessfully
+Information,4/2/2026 12:47:15 PM,HPTouchpointAnalyticsService,0,None,Service started successfully.
+Information,4/2/2026 12:47:15 PM,HPAnalytics,0,None,HpTouchpointAnalyticsRecoverySetupSuccessfully configured Failure Actions
+Information,4/2/2026 12:47:15 PM,Microsoft-Windows-EventSystem,4625,None,The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.
+Information,4/2/2026 12:47:14 PM,Microsoft-Windows-User Profiles Service,1531,None,"The User Profile Service has started successfully.  
+
+"
+Information,4/2/2026 11:42:27 AM,Microsoft-Windows-User Profiles Service,1532,None,"The User Profile Service has stopped.  
+
+"
+Information,4/2/2026 11:42:27 AM,HPTouchpointAnalyticsService,0,None,Service has been successfully shut down.
+Information,4/2/2026 11:42:07 AM,Microsoft-Windows-Winlogon,6000,None,The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+Information,4/2/2026 11:42:07 AM,HPTouchpointAnalyticsService,0,None,User Logon event fired
+Information,4/2/2026 11:42:07 AM,Microsoft-Windows-Winlogon,6000,None,The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.
+Information,4/2/2026 11:42:05 AM,Microsoft-Windows-Winsrv,10001,None,The following application attempted to veto the shutdown: steam.exe.
+Information,4/2/2026 11:27:44 AM,HP Comm Recovery,0,None,PowerEvent handled successfully by the service.
+Information,4/2/2026 11:26:57 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T05:56:57Z. Reason: RulesEngine.
+Information,4/2/2026 11:26:26 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 11:24:34 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T05:54:34Z. Reason: RulesEngine.
+Information,4/2/2026 11:24:05 AM,HP Comm Recovery,0,None,PowerEvent handled successfully by the service.
+Information,4/2/2026 11:24:04 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 11:04:52 AM,Brave-Browser,256,Browser Events,[3232:32020:0402/110452.949:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+Information,4/2/2026 11:00:37 AM,SecurityCenter,15,None,Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+Information,4/2/2026 10:52:33 AM,Brave-Browser,256,Browser Events,[31832:15912:0402/105233.434:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+Error,4/2/2026 10:51:33 AM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 29932.  Message ID: [0x2509].
+Information,4/2/2026 10:51:02 AM,Edge,256,Browser Events,[21924:28924:0402/105102.962:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+Information,4/2/2026 10:50:00 AM,Windows Error Reporting,1001,None,"Fault bucket 1651360496680690243, type 5
+Event Name: BEX64
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: ForzaHorizon5.tmp
+P2: 1.656.386.0
+P3: 00000000
+P4: amd_ags_x64.dll
+P5: 0.0.0.0
+P6: 6439d0a0
+P7: 000000000003d929
+P8: c0000409
+P9: 0000000000000007
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.374499e0-95f2-49b0-8215-a862e30a903e.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.24a04ae5-7616-4373-9610-e38c24374166.tmp.WERInternalMetadata.xml
+WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20260330_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.9ecf1bc7-604f-458f-8461-9ed7809aecab.tmp.etl
+WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.b5dbaec3-8780-411b-8cb2-7ca46aed4d11.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.68180071-f0b1-4456-ab53-bda21e89bd63.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.c9bbfc26-bb0d-4500-9d36-3f3b3556e263.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.14c1f137-6f37-45c3-8c55-2de1f6bdafcb.tmp.xml
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_ForzaHorizon5.tm_a75b6982d6757cc3aba354af3c3d288e080d994_6b73b2b9_cacd3496-ec8e-47f6-9075-61d973c5284e
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 5c7af4e1-808e-4471-b15c-635d106d5d3f
+Report Status: 268435456
+Hashed bucket: efe6309ff54f091626eacf9f58c3e243
+Cab Guid: 0"
+Information,4/2/2026 10:49:58 AM,Windows Error Reporting,1001,None,"Fault bucket 1434571773805408944, type 4
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: ForzaHorizon5.tmp
+P2: 1.656.386.0
+P3: 00000000
+P4: KERNELBASE.dll
+P5: 10.0.26100.7920
+P6: 0cc2a083
+P7: e06d7363
+P8: 00000000000c73fa
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2e84cf2f-3197-4e06-bad1-205a42728fe1.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.cad55743-ebba-4fe5-93c1-1fc894d4341b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284\WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20260330_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.87ba0eca-6bff-48f9-950f-77893dc9c97b.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284\WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6a01f572-02ce-4d6b-b906-d2bd39a2b258.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8a918a78-003e-40e0-a28c-b6948231a075.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.19814365-dedc-4e21-a158-a2540aa5c67b.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.aaa431f7-7d2a-4ba2-837f-1d76c7f02802.tmp.xml
+\\?\C:\Users\karra\AppData\Local\Temp\WER.138a2151-09df-489c-ad41-d4603482c431.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_7b832e7b-562e-45d3-bde9-e3efe0c34284
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 96a74bb3-8371-41e1-9cad-b06f8429ebb6
+Report Status: 268435456
+Hashed bucket: 7dd841cd8db1b0a2f3e89f6d767932b0
+Cab Guid: 0"
+Error,4/2/2026 10:49:55 AM,Application Error,1000,Application Crashing Events,"Faulting application name: ForzaHorizon5.tmp, version: 1.656.386.0, time stamp: 0x00000000
+Faulting module name: amd_ags_x64.dll, version: 0.0.0.0, time stamp: 0x6439d0a0
+Exception code: 0xc0000409
+Fault offset: 0x000000000003d929
+Faulting process id: 0x25BC
+Faulting application start time: 0x1DCC2605416AD62
+Faulting application path: C:\Users\Public\Documents\Steam\CODEX\ForzaHorizon5.tmp
+Faulting module path: C:\Games\Forza Horizon 5\amd_ags_x64.dll
+Report Id: 5c7af4e1-808e-4471-b15c-635d106d5d3f
+Faulting package full name: 
+Faulting package-relative application ID: "
+Information,4/2/2026 10:49:55 AM,Windows Error Reporting,1001,None,"Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: ForzaHorizon5.tmp
+P2: 1.656.386.0
+P3: 00000000
+P4: KERNELBASE.dll
+P5: 10.0.26100.7920
+P6: 0cc2a083
+P7: e06d7363
+P8: 00000000000c73fa
+P9: 
+P10: 
+
+Attached files:
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.2e84cf2f-3197-4e06-bad1-205a42728fe1.tmp.mdmp
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.cad55743-ebba-4fe5-93c1-1fc894d4341b.tmp.WERInternalMetadata.xml
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284\WPR_initiated_DiagTrackMiniLogger_OneTrace_User_Logger_20260330_1_EC_0_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.87ba0eca-6bff-48f9-950f-77893dc9c97b.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284\WPR_initiated_DiagTrackMiniLogger_WPR System Collector_inject.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.6a01f572-02ce-4d6b-b906-d2bd39a2b258.tmp.etl
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.8a918a78-003e-40e0-a28c-b6948231a075.tmp.csv
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.19814365-dedc-4e21-a158-a2540aa5c67b.tmp.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\Temp\WER.aaa431f7-7d2a-4ba2-837f-1d76c7f02802.tmp.xml
+\\?\C:\Users\karra\AppData\Local\Temp\WER.138a2151-09df-489c-ad41-d4603482c431.tmp.appcompat.txt
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284\memory.hdmp
+
+These files may be available here:
+\\?\C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_ForzaHorizon5.tm_db97389b616236adba402e4ea8fca33532ea182_6b73b2b9_cab_7b832e7b-562e-45d3-bde9-e3efe0c34284
+
+Analysis symbol: 
+Rechecking for solution: 0
+Report Id: 96a74bb3-8371-41e1-9cad-b06f8429ebb6
+Report Status: 4
+Hashed bucket: 
+Cab Guid: 0"
+Error,4/2/2026 10:49:50 AM,Application Error,1000,Application Crashing Events,"Faulting application name: ForzaHorizon5.tmp, version: 1.656.386.0, time stamp: 0x00000000
+Faulting module name: KERNELBASE.dll, version: 10.0.26100.7920, time stamp: 0x0cc2a083
+Exception code: 0xe06d7363
+Fault offset: 0x00000000000c73fa
+Faulting process id: 0x25BC
+Faulting application start time: 0x1DCC2605416AD62
+Faulting application path: C:\Users\Public\Documents\Steam\CODEX\ForzaHorizon5.tmp
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: 96a74bb3-8371-41e1-9cad-b06f8429ebb6
+Faulting package full name: 
+Faulting package-relative application ID: "
+Information,4/2/2026 10:49:09 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 10:42:59 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 10:42:59 AM,SecurityCenter,15,None,Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+Information,4/2/2026 10:40:32 AM,SecurityCenter,15,None,Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+Error,4/2/2026 10:39:58 AM,.NET Runtime,1022,None,.NET Runtime version 4.0.30319.0 - There was a failure initializing profiling API attach infrastructure.  This process will not allow a profiler to attach.  HRESULT: 0x80004005.  Process ID (decimal): 28660.  Message ID: [0x2509].
+Information,4/2/2026 10:39:46 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T05:09:46Z. Reason: RulesEngine.
+Information,4/2/2026 10:39:37 AM,Universal Print,1,None,"Initialization Successful. Enabled=false, CloudPrintSolution=Unknown, DiscoveryEndpoint=, OAuthAuthority=, OAuthClientId=, DiscoveryResourceId=, PrintResourceId="
+Information,4/2/2026 10:39:37 AM,Universal Print,1,None,Device is neither AAD/Domain Joined or Workplace Joined.
+Information,4/2/2026 10:39:26 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 10:39:16 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 10:36:05 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T05:06:05Z. Reason: RulesEngine.
+Information,4/2/2026 10:35:35 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 10:34:55 AM,Comet,256,(1),"The description for Event ID 256 from source Comet cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+[11476:9588:0402/103455.018:INFO:chrome\browser\extensions\extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+
+The message resource is present but the message was not found in the message table
+"
+Information,4/2/2026 10:31:10 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 10:28:16 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T04:58:16Z. Reason: RulesEngine.
+Information,4/2/2026 10:27:46 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 10:25:34 AM,Microsoft-Windows-Security-SPP,903,None,"The Software Protection service has stopped.
+"
+Information,4/2/2026 10:25:34 AM,Microsoft-Windows-Security-SPP,16384,None,Successfully scheduled Software Protection service for re-start at 2126-03-09T04:55:34Z. Reason: RulesEngine.
+Information,4/2/2026 10:25:07 AM,SecurityCenter,15,None,Updated Windows Defender status successfully to SECURITY_PRODUCT_STATE_ON.
+Information,4/2/2026 10:25:05 AM,SecurityCenter,1,None,The Windows Security Center Service has started.
+Information,4/2/2026 10:25:04 AM,edgeupdate,0,None,Service stopped.
+Information,4/2/2026 10:25:04 AM,Microsoft-Windows-Security-SPP,902,None,"The Software Protection service has started.
+10.0.26100.8036"
+Information,4/2/2026 10:25:03 AM,Microsoft-Windows-Security-SPP,1003,None,"The Software Protection service has completed licensing status check.
+Application Id=55c92734-d682-4d71-983e-d6ec3f16059f
+Licensing Status=
+1: 0567073a-7d74-403b-b2d5-6b35da372d8d, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+2: 1b750385-9fe2-49a8-ab55-149d0546395b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+3: 1d873132-f09f-4eb2-bf5a-2e4fb48935e8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+4: 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+5: 30d469c6-a78f-4476-b5c8-af78d5b6a5fb, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+6: 3ae2cc14-ab2d-41f4-972f-5e20142771dc, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+7: 4002e33a-524c-4100-8108-131a0d42c0ea, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+8: 411b3d4f-be6d-4a06-baaa-9cabfc256cae, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+9: 58e97c99-f377-4ef1-81d5-4ad5522b5fd8, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+10: 653098ee-780d-4863-8cf2-d18399ce413b, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+11: 74436dbb-cc17-46de-867f-14906ba4a938, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+12: 8a292df8-d653-4057-8133-a0701792f912, 1, 1 [(0 )(1 )(2 [0x00000000, 1, 0], [(?)( 1 0x00000000)(?)(?)(?)(?)( 10 0x00000000 msft:rm/algorithm/flags/1.0)(?)])(3 )]
+13: 8db63db6-4f8f-46d6-a448-66444faaaa72, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+14: cd918a57-a41b-4c82-8dce-1a538e221a83, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+15: da9621af-f086-4244-b563-18611e51aa1a, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+16: e371d89a-73e8-4b24-a7ff-23a3641dd18e, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+17: ed799377-74b8-4989-a244-14d082e65972, 1, 0 [(0 [0xC004F014, 0, 0], [(?)(?)(?)(?)(?)(?)(?)(?)])(1 )(2 )(3 )]
+
+"
+Information,4/2/2026 10:25:03 AM,brave,0,None,The operation completed successfully. 
+Information,4/2/2026 10:25:03 AM,Microsoft-Windows-Security-SPP,1066,None,"Initialization status for service objects.
+C:\WINDOWS\system32\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/inherited/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/phone/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:rm/algorithm/pkey/detect, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/ActionScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/TaskScheduler/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/statecollector/pkey, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/1.0, 0x00000000, 0x00000000
+C:\WINDOWS\system32\sppobjs.dll, msft:spp/volume/services/kms/activationinfo/1.0, 0x00000000, 0x00000000
+"
+Information,4/2/2026 10:25:03 AM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded.
+Information,4/2/2026 10:25:03 AM,Microsoft-Windows-Security-SPP,900,None,"The Software Protection service is starting.
+Parameters:TriggerStarted:6"
+Information,4/2/2026 10:24:24 AM,Application,9997,Devices,"The description for Event ID 9997 from source Application cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+Launch manually
+
+The message resource is present but the message was not found in the message table
+"
+Information,4/2/2026 10:24:20 AM,Microsoft-Windows-RestartManager,10001,None,Ending session 0 started ‎2026‎-‎04‎-‎02T04:54:19.855851400Z.
+Information,4/2/2026 10:24:20 AM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 12948.
+Information,4/2/2026 10:24:20 AM,MsiInstaller,1033,None,"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufacturer: Portrait Displays, Inc.. Installation success or error status: 1603."
+Information,4/2/2026 10:24:20 AM,MsiInstaller,11708,None,Product: HP Display Control Service -- Installation failed.
+Information,4/2/2026 10:24:19 AM,Microsoft-Windows-RestartManager,10000,None,Starting session 0 - ‎2026‎-‎04‎-‎02T04:54:19.855851400Z.
+Information,4/2/2026 10:24:19 AM,Microsoft-Windows-RestartManager,10001,None,Ending session 0 started ‎2026‎-‎04‎-‎02T04:54:19.595244900Z.
+Information,4/2/2026 10:24:19 AM,Microsoft-Windows-RestartManager,10000,None,Starting session 0 - ‎2026‎-‎04‎-‎02T04:54:19.595244900Z.
+Error,4/2/2026 10:24:20 AM,MsiInstaller,1013,None,Product: HP Display Control Service -- The device is not a supported system. Aborting installation.
+Information,4/2/2026 10:24:19 AM,MsiInstaller,1040,None,Beginning a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 12948.
+Information,4/2/2026 10:24:19 AM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 21572.
+Information,4/2/2026 10:24:19 AM,MsiInstaller,1033,None,"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufacturer: Portrait Displays, Inc.. Installation success or error status: 1603."
+Error,4/2/2026 10:24:19 AM,MsiInstaller,10005,None,"Product: HP Display Control Service -- The installer has encountered an unexpected error installing this package. This may indicate a problem with this package. The error code is 2753. The arguments are: DisplayControl, , "
+Information,4/2/2026 10:24:19 AM,MsiInstaller,1040,None,Beginning a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 21572.
+Information,4/2/2026 10:24:13 AM,HP Comm Recovery,0,None,PowerEvent handled successfully by the service.
+Information,4/2/2026 10:24:05 AM,Microsoft-Windows-RestartManager,10001,None,Ending session 0 started ‎2026‎-‎04‎-‎02T04:54:05.115823900Z.
+Information,4/2/2026 10:24:05 AM,Microsoft-Windows-RestartManager,10000,None,Starting session 0 - ‎2026‎-‎04‎-‎02T04:54:05.115823900Z.
+Information,4/2/2026 10:24:05 AM,Microsoft-Windows-RestartManager,10001,None,Ending session 0 started ‎2026‎-‎04‎-‎02T04:54:04.872016900Z.
+Information,4/2/2026 10:24:04 AM,Microsoft-Windows-RestartManager,10000,None,Starting session 0 - ‎2026‎-‎04‎-‎02T04:54:04.872016900Z.
+Information,4/2/2026 10:24:05 AM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 22516.
+Information,4/2/2026 10:24:05 AM,MsiInstaller,1033,None,"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufacturer: Portrait Displays, Inc.. Installation success or error status: 1603."
+Information,4/2/2026 10:24:05 AM,MsiInstaller,11708,None,Product: HP Display Control Service -- Installation failed.
+Error,4/2/2026 10:24:05 AM,MsiInstaller,1013,None,Product: HP Display Control Service -- The device is not a supported system. Aborting installation.
+Information,4/2/2026 10:24:05 AM,MsiInstaller,1040,None,Beginning a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 22516.
+Information,4/2/2026 10:24:05 AM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 22344.
+Information,4/2/2026 10:24:05 AM,MsiInstaller,1033,None,"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufacturer: Portrait Displays, Inc.. Installation success or error status: 1603."
+Error,4/2/2026 10:24:05 AM,MsiInstaller,10005,None,"Product: HP Display Control Service -- The installer has encountered an unexpected error installing this package. This may indicate a problem with this package. The error code is 2753. The arguments are: DisplayControl, , "
+Information,4/2/2026 10:24:04 AM,MsiInstaller,1040,None,Beginning a Windows Installer transaction: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\x64\HPDCSetup.msi. Client Process Id: 22344.
+Error,4/2/2026 10:23:50 AM,SideBySide,59,None,"Activation context generation failed for ""C:\Riot Games\Riot Client\RiotClientServices.exe"".Error in manifest or policy file ""C:\Riot Games\Riot Client\RiotClientServices.exe"" on line 0. Invalid Xml syntax."
+Information,4/2/2026 10:23:32 AM,HP Comm Recovery,0,None,Version : 2.0.20.0
+Information,4/2/2026 10:23:26 AM,Universal Print,1,None,"Initialization Successful. Enabled=false, CloudPrintSolution=Unknown, DiscoveryEndpoint=, OAuthAuthority=, OAuthClientId=, DiscoveryResourceId=, PrintResourceId="
+Information,4/2/2026 10:23:26 AM,Universal Print,1,None,Device is neither AAD/Domain Joined or Workplace Joined.
+Information,4/2/2026 10:23:05 AM,Microsoft-Windows-Search,1003,Search service,The Windows Search Service started.
+
+Information,4/2/2026 10:23:04 AM,nssm,1008,None,"Started C:\Program Files\Automation Anywhere\Bot Agent\jre\bin\NodeManager.exe -Djdk.xml.xpathExprGrpLimit=0 -Djdk.xml.xpathExprOpLimit=0 -Djdk.xml.xpathTotalOpLimit=0 -Dlog4j.configurationFile=file:///""C:\Program Files\Automation Anywhere\Bot Agent\config\nodemanager-logging.xml"" -Dext.properties.dir=""C:\Program Files\Automation Anywhere\Bot Agent\config"" -jar ""C:\Program Files\Automation Anywhere\Bot Agent\node-manager.jar"" for service Automation Anywhere Bot Agent in C:\Program Files\Automation Anywhere\Bot Agent."
+Information,4/2/2026 10:23:03 AM,Microsoft-Windows-Winlogon,6000,None,The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+Information,4/2/2026 10:23:03 AM,PostgreSQL,0,None,Server started and accepting connections
+
+Information,4/2/2026 10:23:03 AM,PostgreSQL,0,None,"2026-04-02 10:23:03 IST LOG:  redirecting log output to logging collector process
+2026-04-02 10:23:03 IST HINT:  Future log output will appear in directory ""log"".
+"
+Information,4/2/2026 10:23:03 AM,SafeExamBrowser,0,None,Service started successfully.
+Information,4/2/2026 10:23:03 AM,Microsoft-Windows-Winlogon,6003,None,The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,Service Started.
+
+Information,4/2/2026 10:23:02 AM,PostgreSQL,0,None,Waiting for server startup...
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,VMAuthdRunService: WSCSetApplicationCategory succeeded: 0x80000000
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,LogRotation: Rotating to a new log file (keepOld 3) took 0.002393 seconds.
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,LOCALE windows-1252 -> NULL User=4009 System=409
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: curves list prime256v1:secp384r1:secp521r1
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: cipher suites TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: protocol list tls1.2 (openssl flags 0x36000000)
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: protocol min 0x303 max 0x303
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: protocol list tls1.2
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: Server usage
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: curves list prime256v1:secp384r1:secp521r1
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: cipher suites TLS_AES_128_GCM_SHA256:TLS_AES_256_GCM_SHA384
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: cipher list ECDHE+AESGCM:RSA+AESGCM:ECDHE+AES:RSA+AES
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: protocol list tls1.2 (openssl flags 0x36000000)
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: protocol min 0x303 max 0x303
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: protocol list tls1.2
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: Client usage
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,lib/ssl: OpenSSL using default provider
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,PREF Optional preferences file not found at C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\preferences.ini. Using default values.
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,"[msg.dictionary.load.openFailed] Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\preferences.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,"DictionaryLoad: Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\preferences.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,PREF Optional preferences file not found at C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\config.ini. Using default values.
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,"[msg.dictionary.load.openFailed] Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\config.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,"DictionaryLoad: Cannot open file ""C:\WINDOWS\system32\config\systemprofile\AppData\Roaming\VMware\config.ini"": The system cannot find the file specified.
+"
+Information,4/2/2026 10:23:02 AM,HP Comm Recovery,0,None,Service started successfully.
+Information,4/2/2026 10:23:02 AM,VMware NAT Service,1000,None,Using configuration file: C:\ProgramData\VMware\vmnetnat.conf.
+IP address: 192.168.211.2
+ Subnet: 255.255.255.0
+External IP address: 0.0.0.0
+Device: VMnet8.
+MAC address: 00:50:56:E1:39:FA.
+Ignoring host MAC address: 00:50:56:C0:00:08.
+
+Information,4/2/2026 10:23:02 AM,vmauthd,1000,None,Log for vmauthd version=17.6.4 build=build-24832109 option=Release
+
+Information,4/2/2026 10:23:02 AM,VMware NAT Service,1000,None,Service started
+Information,4/2/2026 10:23:02 AM,RtkAudioUniversalService,0,None,The operation completed successfully. 
+Information,4/2/2026 10:23:02 AM,MTKBTSVC,2,None,The system cannot find the file specified. 
+Information,4/2/2026 10:23:02 AM,MTKBTSVC,2,None,The system cannot find the file specified. 
+Information,4/2/2026 10:23:02 AM,MTKBTSVC,5,None,Access is denied. 
+Information,4/2/2026 10:23:02 AM,nssm,1040,None,"Service Automation Anywhere Bot Agent received START control, which will be handled."
+Information,4/2/2026 10:23:02 AM,HPTouchpointAnalyticsService,0,None,Service started successfully.
+Information,4/2/2026 10:23:02 AM,HPAnalytics,0,None,HpTouchpointAnalyticsRecoverySetupSuccessfully configured Failure Actions
+Information,4/2/2026 10:23:01 AM,Microsoft-Windows-WMI,5617,None,Windows Management Instrumentation Service subsystems initialized successfully
+Information,4/2/2026 10:23:01 AM,Microsoft-Windows-WMI,5615,None,Windows Management Instrumentation Service started sucessfully
+Information,4/2/2026 10:23:01 AM,Microsoft-Windows-EventSystem,4625,None,The EventSystem sub system is suppressing duplicate event log entries for a duration of 86400 seconds.  The suppression timeout can be controlled by a REG_DWORD value named SuppressDuplicateDuration under the following registry key: HKLM\Software\Microsoft\EventSystem\EventLog.
+Information,4/2/2026 10:23:00 AM,Microsoft-Windows-User Profiles Service,1531,None,"The User Profile Service has started successfully.  
+
+"
+Information,4/2/2026 9:28:43 AM,Microsoft-Windows-User Profiles Service,1532,None,"The User Profile Service has stopped.  
+
+"
+Error,4/2/2026 9:28:43 AM,VSS,13,None,"Volume Shadow Copy Service information: The COM Server with CLSID {4e14fba2-2e22-11d1-9964-00c04fbbb345} and name CEventSystem cannot be started. [0x8007045b, A system shutdown is in progress.
+] "
+Information,4/2/2026 9:28:43 AM,nssm,1011,None,Killing process C:\Program Files\Automation Anywhere\Bot Agent\jre\bin\NodeManager.exe because service Automation Anywhere Bot Agent is stopping.
+Information,4/2/2026 9:28:43 AM,nssm,1040,None,"Service Automation Anywhere Bot Agent received SHUTDOWN control, which will be handled."
+Information,4/2/2026 9:28:43 AM,RtkAudioUniversalService,0,None,The operation completed successfully. 
+Information,4/2/2026 9:28:43 AM,HPTouchpointAnalyticsService,0,None,Service has been successfully shut down.
+Information,4/2/2026 9:28:43 AM,HP Comm Recovery,0,None,Service has been successfully shut down.
+Information,4/2/2026 9:28:26 AM,Microsoft-Windows-Winlogon,6000,None,The winlogon notification subscriber <SessionEnv> was unavailable to handle a notification event.
+Information,4/2/2026 9:28:26 AM,HPTouchpointAnalyticsService,0,None,User Logon event fired
+Information,4/2/2026 9:28:26 AM,Microsoft-Windows-Winlogon,6000,None,The winlogon notification subscriber <WSearch> was unavailable to handle a notification event.
+Information,4/2/2026 9:28:09 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby
+Information,4/2/2026 9:11:58 AM,HP Comm Recovery,1,None,Resume from Connected Standby

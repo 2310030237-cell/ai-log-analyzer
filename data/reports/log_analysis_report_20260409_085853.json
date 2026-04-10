@@ -1,0 +1,187 @@
+{
+  "report_name": "log_analysis_report_20260409_085853",
+  "generated_at": "2026-04-09T08:58:54.068792",
+  "aggregations": {
+    "total_records": 52,
+    "processing_timestamp": "2026-04-09T08:58:52.701234",
+    "level_distribution": {
+      "INFO": 52
+    },
+    "hourly_distribution": {
+      "8": 52
+    },
+    "daily_counts": {
+      "2026-04-09": 52
+    },
+    "error_count": 0,
+    "error_rate": 0.0,
+    "time_bucket_distribution": {
+      "morning": 52,
+      "night": 0,
+      "afternoon": 0,
+      "evening": 0
+    }
+  },
+  "anomaly_summary": {
+    "total_records": 52,
+    "total_anomalies": 3,
+    "anomaly_rate": 5.77,
+    "severity_distribution": {
+      "medium": 2,
+      "high": 1,
+      "critical": 0,
+      "normal": 0
+    },
+    "score_stats": {
+      "mean": 0.1728,
+      "std": 0.0873,
+      "anomaly_threshold": -0.004
+    },
+    "top_anomalous_features": {
+      "has_number": 0.5812,
+      "uppercase_ratio": 0.3089,
+      "special_char_count": 0.2674,
+      "word_count": 0.2533,
+      "message_length": 0.0008,
+      "severity": 0.0,
+      "hour": 0.0,
+      "day_of_week": 0.0,
+      "minute_of_day": 0.0,
+      "hour_sin": 0.0
+    }
+  },
+  "pattern_summary": {
+    "n_patterns": 10,
+    "algorithm": "kmeans",
+    "patterns": {
+      "pattern_0": {
+        "size": 2,
+        "percentage": 3.85,
+        "top_keywords": [
+          "account domain",
+          "domain",
+          "account",
+          "laptop",
+          "n05220tr"
+        ],
+        "representative_message": "Account Domain:\t\tWORKGROUP"
+      },
+      "pattern_1": {
+        "size": 29,
+        "percentage": 55.77,
+        "top_keywords": [
+          "user",
+          "user s",
+          "s",
+          "s local",
+          "membership enumerated"
+        ],
+        "representative_message": "Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,\"A user's local group membership was enumerated."
+      },
+      "pattern_2": {
+        "size": 6,
+        "percentage": 11.54,
+        "top_keywords": [
+          "security id",
+          "n05220tr",
+          "laptop",
+          "laptop n05220tr",
+          "id"
+        ],
+        "representative_message": "Security ID:\t\tSYSTEM"
+      },
+      "pattern_3": {
+        "size": 3,
+        "percentage": 5.77,
+        "top_keywords": [
+          "process",
+          "id",
+          "windows",
+          "user account",
+          "windows security"
+        ],
+        "representative_message": "Process Information:"
+      },
+      "pattern_4": {
+        "size": 3,
+        "percentage": 5.77,
+        "top_keywords": [
+          "read",
+          "credentials",
+          "read operation",
+          "operation",
+          "manager"
+        ],
+        "representative_message": "Audit Success,4/2/2026 2:24:51 PM,Microsoft-Windows-Security-Auditing,5379,User Account Management,\"Credential Manager credentials were read."
+      },
+      "pattern_5": {
+        "size": 4,
+        "percentage": 7.69,
+        "top_keywords": [
+          "account",
+          "karra",
+          "defaultaccount",
+          "guest",
+          "windows security"
+        ],
+        "representative_message": "Subject:"
+      },
+      "pattern_6": {
+        "size": 2,
+        "percentage": 3.85,
+        "top_keywords": [
+          "logon",
+          "logon id",
+          "id",
+          "windows",
+          "windows security"
+        ],
+        "representative_message": "Logon ID:\t\t0x3E7"
+      },
+      "pattern_7": {
+        "size": 1,
+        "percentage": 1.92,
+        "top_keywords": [
+          "user",
+          "windows security",
+          "windows",
+          "user s",
+          "user account"
+        ],
+        "representative_message": "User:"
+      },
+      "pattern_8": {
+        "size": 1,
+        "percentage": 1.92,
+        "top_keywords": [
+          "event",
+          "id",
+          "user s",
+          "windows",
+          "windows security"
+        ],
+        "representative_message": "Keywords,Date and Time,Source,Event ID,Task Category"
+      },
+      "pattern_9": {
+        "size": 1,
+        "percentage": 1.92,
+        "top_keywords": [
+          "administrator",
+          "account",
+          "user s",
+          "windows",
+          "windows security"
+        ],
+        "representative_message": "Account Name:\t\tAdministrator"
+      }
+    }
+  },
+  "nlp_summary": {
+    "total_messages": 52,
+    "insights": [
+      "Most frequent terms: user, account, security, audit, success",
+      "Vocabulary richness: 8.5%"
+    ],
+    "generated_at": "2026-04-09T08:58:53.409770"
+  }
+}

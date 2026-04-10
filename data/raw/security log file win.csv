@@ -1,0 +1,3643 @@
+Keywords,Date and Time,Source,Event ID,Task Category
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:26:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:21 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:18 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:14 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:09 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:06 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:02 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:25:01 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:58 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:51 PM,Microsoft-Windows-Security-Auditing,5379,User Account Management,"Credential Manager credentials were read.
+
+Subject:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+	Logon ID:		0x180554
+	Read Operation:		Enumerate Credentials
+
+This event occurs when a user performs a read operation on stored credentials in Credential Manager."
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:24:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:54 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:51 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:23:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:50 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:45 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:42 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:37 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:33 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Administrator
+	Account Name:		Administrator
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\karra
+	Account Name:		karra
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\Guest
+	Account Name:		Guest
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Audit Success,4/2/2026 2:22:29 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,"A user's local group membership was enumerated.
+
+Subject:
+	Security ID:		SYSTEM
+	Account Name:		LAPTOP-N05220TR$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+User:
+	Security ID:		LAPTOP-N05220TR\DefaultAccount
+	Account Name:		DefaultAccount
+	Account Domain:		LAPTOP-N05220TR
+
+Process Information:
+	Process ID:		0x265c
+	Process Name:		C:\Windows\System32\svchost.exe"

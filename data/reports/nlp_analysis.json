@@ -1,0 +1,535 @@
+{
+  "keywords": [
+    {
+      "keyword": "flight",
+      "count": 17977,
+      "frequency": 2.019
+    },
+    {
+      "keyword": "class",
+      "count": 11547,
+      "frequency": 1.297
+    },
+    {
+      "keyword": "airline",
+      "count": 10317,
+      "frequency": 1.159
+    },
+    {
+      "keyword": "service",
+      "count": 9960,
+      "frequency": 1.118
+    },
+    {
+      "keyword": "economy",
+      "count": 8528,
+      "frequency": 0.958
+    },
+    {
+      "keyword": "seat",
+      "count": 7797,
+      "frequency": 0.876
+    },
+    {
+      "keyword": "via",
+      "count": 7179,
+      "frequency": 0.806
+    },
+    {
+      "keyword": "business",
+      "count": 6753,
+      "frequency": 0.758
+    },
+    {
+      "keyword": "leisure",
+      "count": 6699,
+      "frequency": 0.752
+    },
+    {
+      "keyword": "time",
+      "count": 6442,
+      "frequency": 0.723
+    },
+    {
+      "keyword": "check",
+      "count": 6157,
+      "frequency": 0.691
+    },
+    {
+      "keyword": "user",
+      "count": 5553,
+      "frequency": 0.624
+    },
+    {
+      "keyword": "food",
+      "count": 4691,
+      "frequency": 0.527
+    },
+    {
+      "keyword": "hour",
+      "count": 4565,
+      "frequency": 0.513
+    },
+    {
+      "keyword": "good",
+      "count": 4473,
+      "frequency": 0.502
+    },
+    {
+      "keyword": "singapore",
+      "count": 4449,
+      "frequency": 0.5
+    },
+    {
+      "keyword": "yes",
+      "count": 4409,
+      "frequency": 0.495
+    },
+    {
+      "keyword": "failed",
+      "count": 4398,
+      "frequency": 0.494
+    },
+    {
+      "keyword": "crew",
+      "count": 4375,
+      "frequency": 0.491
+    },
+    {
+      "keyword": "database",
+      "count": 4221,
+      "frequency": 0.474
+    },
+    {
+      "keyword": "request",
+      "count": 4200,
+      "frequency": 0.472
+    },
+    {
+      "keyword": "connection",
+      "count": 4187,
+      "frequency": 0.47
+    },
+    {
+      "keyword": "airway",
+      "count": 4088,
+      "frequency": 0.459
+    },
+    {
+      "keyword": "emirate",
+      "count": 4044,
+      "frequency": 0.454
+    },
+    {
+      "keyword": "staff",
+      "count": 3984,
+      "frequency": 0.447
+    },
+    {
+      "keyword": "turkish",
+      "count": 3911,
+      "frequency": 0.439
+    },
+    {
+      "keyword": "system",
+      "count": 3776,
+      "frequency": 0.424
+    },
+    {
+      "keyword": "qatar",
+      "count": 3762,
+      "frequency": 0.422
+    },
+    {
+      "keyword": "istanbul",
+      "count": 3648,
+      "frequency": 0.41
+    },
+    {
+      "keyword": "one",
+      "count": 3644,
+      "frequency": 0.409
+    },
+    {
+      "keyword": "doha",
+      "count": 3638,
+      "frequency": 0.409
+    },
+    {
+      "keyword": "detected",
+      "count": 3592,
+      "frequency": 0.403
+    },
+    {
+      "keyword": "cabin",
+      "count": 3578,
+      "frequency": 0.402
+    },
+    {
+      "keyword": "completed",
+      "count": 3557,
+      "frequency": 0.399
+    },
+    {
+      "keyword": "successfully",
+      "count": 3536,
+      "frequency": 0.397
+    },
+    {
+      "keyword": "air",
+      "count": 3491,
+      "frequency": 0.392
+    },
+    {
+      "keyword": "cache",
+      "count": 3480,
+      "frequency": 0.391
+    },
+    {
+      "keyword": "api",
+      "count": 3307,
+      "frequency": 0.371
+    },
+    {
+      "keyword": "dubai",
+      "count": 3275,
+      "frequency": 0.368
+    },
+    {
+      "keyword": "solo",
+      "count": 3256,
+      "frequency": 0.366
+    },
+    {
+      "keyword": "meal",
+      "count": 3151,
+      "frequency": 0.354
+    },
+    {
+      "keyword": "experience",
+      "count": 3095,
+      "frequency": 0.348
+    },
+    {
+      "keyword": "airport",
+      "count": 3063,
+      "frequency": 0.344
+    },
+    {
+      "keyword": "would",
+      "count": 2980,
+      "frequency": 0.335
+    },
+    {
+      "keyword": "memory",
+      "count": 2891,
+      "frequency": 0.325
+    },
+    {
+      "keyword": "passenger",
+      "count": 2706,
+      "frequency": 0.304
+    },
+    {
+      "keyword": "authentication",
+      "count": 2703,
+      "frequency": 0.304
+    },
+    {
+      "keyword": "usr",
+      "count": 2676,
+      "frequency": 0.301
+    },
+    {
+      "keyword": "rate",
+      "count": 2632,
+      "frequency": 0.296
+    },
+    {
+      "keyword": "limit",
+      "count": 2618,
+      "frequency": 0.294
+    }
+  ],
+  "word_frequencies": {
+    "total_tokens": 890489,
+    "unique_tokens": 22575,
+    "vocabulary_richness": 0.0254,
+    "top_20": [
+      {
+        "word": "flight",
+        "count": 17977
+      },
+      {
+        "word": "class",
+        "count": 11547
+      },
+      {
+        "word": "airline",
+        "count": 10317
+      },
+      {
+        "word": "service",
+        "count": 9960
+      },
+      {
+        "word": "economy",
+        "count": 8528
+      },
+      {
+        "word": "seat",
+        "count": 7797
+      },
+      {
+        "word": "via",
+        "count": 7179
+      },
+      {
+        "word": "business",
+        "count": 6753
+      },
+      {
+        "word": "leisure",
+        "count": 6699
+      },
+      {
+        "word": "time",
+        "count": 6442
+      },
+      {
+        "word": "check",
+        "count": 6157
+      },
+      {
+        "word": "user",
+        "count": 5553
+      },
+      {
+        "word": "food",
+        "count": 4691
+      },
+      {
+        "word": "hour",
+        "count": 4565
+      },
+      {
+        "word": "good",
+        "count": 4473
+      },
+      {
+        "word": "singapore",
+        "count": 4449
+      },
+      {
+        "word": "yes",
+        "count": 4409
+      },
+      {
+        "word": "failed",
+        "count": 4398
+      },
+      {
+        "word": "crew",
+        "count": 4375
+      },
+      {
+        "word": "database",
+        "count": 4221
+      }
+    ]
+  },
+  "ngrams": {
+    "top_bigrams": [
+      {
+        "ngram": "economy class",
+        "count": 6158
+      },
+      {
+        "ngram": "business class",
+        "count": 4492
+      },
+      {
+        "ngram": "class yes",
+        "count": 4077
+      },
+      {
+        "ngram": "turkish airline",
+        "count": 3447
+      },
+      {
+        "ngram": "solo leisure",
+        "count": 3237
+      },
+      {
+        "ngram": "qatar airway",
+        "count": 2936
+      },
+      {
+        "ngram": "user usr",
+        "count": 2676
+      },
+      {
+        "ngram": "api rate",
+        "count": 2544
+      },
+      {
+        "ngram": "rate limit",
+        "count": 2544
+      },
+      {
+        "ngram": "connection pool",
+        "count": 2400
+      },
+      {
+        "ngram": "request processed",
+        "count": 1974
+      },
+      {
+        "ngram": "processed successfully",
+        "count": 1974
+      },
+      {
+        "ngram": "hong kong",
+        "count": 1912
+      },
+      {
+        "ngram": "air france",
+        "count": 1901
+      },
+      {
+        "ngram": "couple leisure",
+        "count": 1899
+      },
+      {
+        "ngram": "detected table",
+        "count": 1830
+      },
+      {
+        "ngram": "limit check",
+        "count": 1818
+      },
+      {
+        "ngram": "check passed",
+        "count": 1818
+      },
+      {
+        "ngram": "singapore airline",
+        "count": 1796
+      },
+      {
+        "ngram": "background job",
+        "count": 1758
+      }
+    ],
+    "top_trigrams": [
+      {
+        "ngram": "economy class yes",
+        "count": 2586
+      },
+      {
+        "ngram": "api rate limit",
+        "count": 2544
+      },
+      {
+        "ngram": "request processed successfully",
+        "count": 1974
+      },
+      {
+        "ngram": "rate limit check",
+        "count": 1818
+      },
+      {
+        "ngram": "limit check passed",
+        "count": 1818
+      },
+      {
+        "ngram": "background job completed",
+        "count": 1758
+      },
+      {
+        "ngram": "database query completed",
+        "count": 1740
+      },
+      {
+        "ngram": "connection pool stats",
+        "count": 1740
+      },
+      {
+        "ngram": "pool stats active",
+        "count": 1740
+      },
+      {
+        "ngram": "stats active idle",
+        "count": 1740
+      },
+      {
+        "ngram": "cache hit key",
+        "count": 1668
+      },
+      {
+        "ngram": "hit key cache",
+        "count": 1668
+      },
+      {
+        "ngram": "user authentication successful",
+        "count": 1632
+      },
+      {
+        "ngram": "session created user",
+        "count": 1608
+      },
+      {
+        "ngram": "created user usr",
+        "count": 1608
+      }
+    ]
+  },
+  "severity_analysis": {
+    "severity_counts": {
+      "critical": 8767,
+      "high": 14732,
+      "medium": 3795,
+      "low": 11960
+    },
+    "keyword_matches": {
+      "critical": {
+        "failure": 1378,
+        "breach": 1303,
+        "exhausted": 1246,
+        "panic": 1244,
+        "crash": 1237
+      },
+      "high": {
+        "failed": 4388,
+        "error": 3758,
+        "unreachable": 2337,
+        "exception": 1426,
+        "unauthorized": 1296
+      },
+      "medium": {
+        "slow": 936,
+        "exceeded": 773,
+        "approaching": 734,
+        "nearing": 663,
+        "deprecated": 660
+      },
+      "low": {
+        "success": 5378,
+        "completed": 3555,
+        "loaded": 1582,
+        "info": 969,
+        "started": 398
+      }
+    }
+  },
+  "summary": {
+    "total_messages": 49612,
+    "insights": [
+      "[!] 8767 messages contain CRITICAL severity indicators",
+      "[!] 14732 messages contain HIGH severity indicators",
+      "Most frequent terms: flight, class, airline, service, economy",
+      "Vocabulary richness: 2.5%"
+    ],
+    "generated_at": "2026-04-09T13:59:20.230087"
+  }
+}

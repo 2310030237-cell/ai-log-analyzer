@@ -1,0 +1,298 @@
+{
+  "report_name": "log_analysis_report_20260409_084714",
+  "generated_at": "2026-04-09T08:47:17.581520",
+  "aggregations": {
+    "total_records": 16693,
+    "processing_timestamp": "2026-04-09T08:46:29.468539",
+    "level_distribution": {
+      "INFO": 10534,
+      "WARNING": 4257,
+      "ERROR": 1902
+    },
+    "hourly_distribution": {
+      "0": 524,
+      "1": 902,
+      "2": 538,
+      "3": 739,
+      "4": 593,
+      "5": 596,
+      "6": 739,
+      "7": 633,
+      "8": 715,
+      "9": 727,
+      "10": 778,
+      "11": 626,
+      "12": 837,
+      "13": 527,
+      "14": 669,
+      "15": 942,
+      "16": 750,
+      "17": 733,
+      "18": 488,
+      "19": 701,
+      "20": 674,
+      "21": 633,
+      "22": 869,
+      "23": 760
+    },
+    "daily_counts": {
+      "2026-03-10": 262,
+      "2026-03-11": 650,
+      "2026-03-12": 521,
+      "2026-03-13": 510,
+      "2026-03-14": 560,
+      "2026-03-15": 544,
+      "2026-03-16": 710,
+      "2026-03-17": 535,
+      "2026-03-18": 536,
+      "2026-03-19": 471,
+      "2026-03-20": 509,
+      "2026-03-21": 397,
+      "2026-03-22": 669,
+      "2026-03-23": 723,
+      "2026-03-24": 430,
+      "2026-03-25": 565,
+      "2026-03-26": 610,
+      "2026-03-27": 478,
+      "2026-03-28": 520,
+      "2026-03-29": 637,
+      "2026-03-30": 569,
+      "2026-03-31": 504,
+      "2026-04-01": 507,
+      "2026-04-02": 417,
+      "2026-04-03": 577,
+      "2026-04-04": 564,
+      "2026-04-05": 670,
+      "2026-04-06": 719,
+      "2026-04-07": 464,
+      "2026-04-08": 709,
+      "2026-04-09": 156
+    },
+    "error_count": 1902,
+    "error_rate": 11.39,
+    "top_endpoints": {
+      "/api/v1/admin": 2204,
+      "/api/v1/login": 2155,
+      "/etc/passwd": 1596,
+      "/api/v1/payments": 611,
+      "/api/v1/search": 600,
+      "/api/v1/profile": 595,
+      "/api/v1/users": 578,
+      "/static/js/app.js": 578,
+      "/api/v1/reports": 574,
+      "/static/images/logo.png": 573
+    },
+    "top_ips": {
+      "203.0.113.42": 4920,
+      "192.168.1.12": 113,
+      "192.168.1.8": 113,
+      "10.0.4.17": 112,
+      "192.168.1.37": 110,
+      "10.0.3.6": 108,
+      "10.0.1.1": 108,
+      "192.168.1.21": 107,
+      "10.0.1.18": 106,
+      "192.168.1.41": 106
+    },
+    "top_services": {},
+    "status_distribution": {
+      "200.0": 2933,
+      "201.0": 2834,
+      "204.0": 1923,
+      "301.0": 955,
+      "302.0": 947,
+      "304.0": 942,
+      "400.0": 870,
+      "404.0": 696,
+      "401.0": 685,
+      "403.0": 684,
+      "405.0": 681,
+      "429.0": 641,
+      "502.0": 510,
+      "503.0": 478,
+      "504.0": 460,
+      "500.0": 454
+    },
+    "response_size": {
+      "mean": 382956.57,
+      "median": 25138.0,
+      "max": 4998765,
+      "total": 6392694000
+    },
+    "duration_stats": {
+      "mean": NaN,
+      "p50": NaN,
+      "p95": NaN,
+      "p99": NaN,
+      "max": NaN
+    },
+    "time_bucket_distribution": {
+      "night": 4631,
+      "morning": 4316,
+      "afternoon": 4109,
+      "evening": 3637
+    }
+  },
+  "anomaly_summary": {
+    "total_records": 16693,
+    "total_anomalies": 835,
+    "anomaly_rate": 5.0,
+    "severity_distribution": {
+      "medium": 835,
+      "critical": 0,
+      "high": 0,
+      "normal": 0
+    },
+    "score_stats": {
+      "mean": 0.0927,
+      "std": 0.0498,
+      "anomaly_threshold": -0.0
+    },
+    "top_anomalous_features": {
+      "hour_cos": 13.528,
+      "is_server_error": 10.9878,
+      "response_size": 6.6553,
+      "hour_sin": 3.3277,
+      "is_error_status": 1.9415,
+      "is_night": 1.089,
+      "severity": 1.0362,
+      "is_weekend": 0.7311,
+      "status_code": 0.6573,
+      "day_of_week": 0.2388
+    }
+  },
+  "pattern_summary": {
+    "n_patterns": 10,
+    "algorithm": "kmeans",
+    "patterns": {
+      "pattern_0": {
+        "size": 561,
+        "percentage": 3.36,
+        "top_keywords": [
+          "favicon",
+          "ico",
+          "favicon ico",
+          "post favicon",
+          "post"
+        ],
+        "representative_message": "PUT /favicon.ico 200"
+      },
+      "pattern_1": {
+        "size": 8926,
+        "percentage": 53.47,
+        "top_keywords": [
+          "v1",
+          "api",
+          "api v1",
+          "v1 admin",
+          "admin"
+        ],
+        "representative_message": "POST /api/v1/cart 200"
+      },
+      "pattern_2": {
+        "size": 2155,
+        "percentage": 12.91,
+        "top_keywords": [
+          "v1 login",
+          "login",
+          "api",
+          "v1",
+          "api v1"
+        ],
+        "representative_message": "POST /api/v1/login 405"
+      },
+      "pattern_3": {
+        "size": 1596,
+        "percentage": 9.56,
+        "top_keywords": [
+          "passwd",
+          "post passwd",
+          "post",
+          "patch passwd",
+          "patch"
+        ],
+        "representative_message": "POST /etc/passwd 503"
+      },
+      "pattern_4": {
+        "size": 578,
+        "percentage": 3.46,
+        "top_keywords": [
+          "js",
+          "app js",
+          "js app",
+          "static js",
+          "app"
+        ],
+        "representative_message": "GET /static/js/app.js 405"
+      },
+      "pattern_5": {
+        "size": 571,
+        "percentage": 3.42,
+        "top_keywords": [
+          "health",
+          "post health",
+          "patch health",
+          "post",
+          "delete health"
+        ],
+        "representative_message": "GET /health 302"
+      },
+      "pattern_6": {
+        "size": 549,
+        "percentage": 3.29,
+        "top_keywords": [
+          "css",
+          "css main",
+          "main css",
+          "static css",
+          "main"
+        ],
+        "representative_message": "POST /static/css/main.css 204"
+      },
+      "pattern_7": {
+        "size": 611,
+        "percentage": 3.66,
+        "top_keywords": [
+          "v1 payments",
+          "payments",
+          "api",
+          "v1",
+          "api v1"
+        ],
+        "representative_message": "GET /api/v1/payments 200"
+      },
+      "pattern_8": {
+        "size": 573,
+        "percentage": 3.43,
+        "top_keywords": [
+          "metrics",
+          "post metrics",
+          "post",
+          "patch metrics",
+          "patch"
+        ],
+        "representative_message": "GET /metrics 304"
+      },
+      "pattern_9": {
+        "size": 573,
+        "percentage": 3.43,
+        "top_keywords": [
+          "images logo",
+          "logo",
+          "logo png",
+          "png",
+          "static images"
+        ],
+        "representative_message": "PUT /static/images/logo.png 201"
+      }
+    }
+  },
+  "nlp_summary": {
+    "total_messages": 16693,
+    "insights": [
+      "Most frequent terms: patch",
+      "Vocabulary richness: 0.1%"
+    ],
+    "generated_at": "2026-04-09T08:47:10.162976"
+  }
+}

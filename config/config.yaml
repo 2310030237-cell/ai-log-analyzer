@@ -1,0 +1,78 @@
+# AI-Based Log File Analyzer - Configuration
+# ============================================
+
+project:
+  name: "AI-DDE Log Analyzer"
+  version: "1.0.0"
+
+# Data paths
+paths:
+  data_root: "data"
+  raw_logs: "data/raw"
+  processed: "data/processed"
+  models: "data/models"
+  reports: "data/reports"
+
+# Storage settings
+storage:
+  backend: "local"  # Options: "local" or "hdfs"
+  # HDFS configuration (used when backend: "hdfs")
+  # Requires: pip install pyarrow
+  hdfs:
+    host: "localhost"       # HDFS NameNode hostname
+    port: 8020              # HDFS NameNode IPC port
+    user: "hadoop"          # HDFS user for authentication
+    # data_root on HDFS: /data/log_analyzer
+
+# Spark configuration
+spark:
+  app_name: "LogAnalyzer"
+  master: "local[*]"
+  driver_memory: "2g"
+  executor_memory: "2g"
+  log_level: "WARN"
+
+# Log generator settings
+generator:
+  num_lines: 50000
+  formats:
+    - "apache"
+    - "syslog"
+    - "json"
+    - "application"
+  anomaly_rate: 0.05
+  date_range_days: 30
+
+# Batch processing
+processing:
+  dedup: true
+  null_handling: "drop"
+  min_message_length: 5
+
+# ML configuration
+ml:
+  anomaly_detection:
+    algorithm: "isolation_forest"
+    n_estimators: 200
+    contamination: 0.05
+    random_state: 42
+
+  pattern_recognition:
+    algorithm: "kmeans"
+    n_clusters: 10
+    max_features: 5000
+
+  nlp:
+    top_keywords: 50
+    ngram_range: [1, 2]
+
+# Scheduler
+scheduler:
+  interval: "daily"
+  time: "02:00"
+
+# Dashboard
+dashboard:
+  host: "localhost"
+  port: 8501
+  theme: "dark"

@@ -1,0 +1,41 @@
+{
+  "total_records": 49612,
+  "columns": [
+    "timestamp",
+    "level",
+    "severity",
+    "message",
+    "_format",
+    "_raw",
+    "ip",
+    "method",
+    "endpoint",
+    "protocol",
+    "status_code",
+    "response_size",
+    "referrer",
+    "user_agent",
+    "thread",
+    "service",
+    "host",
+    "request_id",
+    "duration_ms",
+    "error_trace",
+    "anomaly_hint",
+    "hostname",
+    "pid",
+    "hour",
+    "day_of_week",
+    "date",
+    "is_business_hours",
+    "time_bucket",
+    "severity_num",
+    "message_length",
+    "status_category"
+  ],
+  "date_range": {
+    "start": "2026-03-10 09:48:43.820000",
+    "end": "2026-04-09 13:58:25.259771"
+  },
+  "processing_time": "2026-04-09T13:58:27.378294"
+}

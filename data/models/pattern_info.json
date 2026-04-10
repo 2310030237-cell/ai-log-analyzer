@@ -1,0 +1,477 @@
+{
+  "algorithm": "kmeans",
+  "n_clusters": 10,
+  "cluster_info": {
+    "0": {
+      "size": 1974,
+      "percentage": 3.98,
+      "top_terms": [
+        [
+          "request processed",
+          0.4707
+        ],
+        [
+          "processed successfully",
+          0.4707
+        ],
+        [
+          "processed",
+          0.469
+        ],
+        [
+          "request",
+          0.4149
+        ],
+        [
+          "successfully",
+          0.4058
+        ],
+        [
+          "zero",
+          0.0
+        ],
+        [
+          "zealand",
+          0.0
+        ],
+        [
+          "zagreb",
+          0.0
+        ],
+        [
+          "z",
+          0.0
+        ],
+        [
+          "acknowledged",
+          0.0
+        ]
+      ],
+      "representative": "Request processed successfully"
+    },
+    "1": {
+      "size": 1668,
+      "percentage": 3.36,
+      "top_terms": [
+        [
+          "cache",
+          0.5837
+        ],
+        [
+          "key cache",
+          0.2974
+        ],
+        [
+          "hit key",
+          0.2974
+        ],
+        [
+          "cache hit",
+          0.2974
+        ],
+        [
+          "key",
+          0.296
+        ],
+        [
+          "hit",
+          0.2949
+        ],
+        [
+          "cache session",
+          0.129
+        ],
+        [
+          "cache product",
+          0.1267
+        ],
+        [
+          "cache user",
+          0.1159
+        ],
+        [
+          "product",
+          0.1159
+        ]
+      ],
+      "representative": "Cache hit for key: cache:session:5981"
+    },
+    "2": {
+      "size": 33868,
+      "percentage": 68.27,
+      "top_terms": [
+        [
+          "failed",
+          0.0384
+        ],
+        [
+          "authentication",
+          0.0339
+        ],
+        [
+          "detected",
+          0.0306
+        ],
+        [
+          "user",
+          0.0297
+        ],
+        [
+          "memory",
+          0.0243
+        ],
+        [
+          "service",
+          0.0233
+        ],
+        [
+          "successful",
+          0.0232
+        ],
+        [
+          "authentication successful",
+          0.0231
+        ],
+        [
+          "user authentication",
+          0.0231
+        ],
+        [
+          "error",
+          0.0207
+        ]
+      ],
+      "representative": "Title,Name,Review Date,Airline,Verified,Reviews,Type of Traveller,Month Flown,Route,Class,Seat Comfort,Staff Service,Food & Beverages,Inflight Entertainment,Value For Money,Overall Rating,Recommended"
+    },
+    "3": {
+      "size": 1740,
+      "percentage": 3.51,
+      "top_terms": [
+        [
+          "stats",
+          0.3457
+        ],
+        [
+          "pool stats",
+          0.3457
+        ],
+        [
+          "stats active",
+          0.3457
+        ],
+        [
+          "active idle",
+          0.3457
+        ],
+        [
+          "idle",
+          0.3457
+        ],
+        [
+          "active",
+          0.3446
+        ],
+        [
+          "connection pool",
+          0.3202
+        ],
+        [
+          "pool",
+          0.32
+        ],
+        [
+          "connection",
+          0.2804
+        ],
+        [
+          "year",
+          0.0
+        ]
+      ],
+      "representative": "Connection pool stats: active=22, idle=6"
+    },
+    "4": {
+      "size": 1374,
+      "percentage": 2.77,
+      "top_terms": [
+        [
+          "replicas",
+          0.4793
+        ],
+        [
+          "replicas unreachable",
+          0.4793
+        ],
+        [
+          "database replicas",
+          0.4793
+        ],
+        [
+          "unreachable",
+          0.4238
+        ],
+        [
+          "database",
+          0.3621
+        ],
+        [
+          "zagreb",
+          0.0
+        ],
+        [
+          "z",
+          0.0
+        ],
+        [
+          "acknowledged",
+          0.0
+        ],
+        [
+          "year",
+          0.0
+        ],
+        [
+          "absolutely",
+          0.0
+        ]
+      ],
+      "representative": "DATABASE DOWN: All replicas unreachable"
+    },
+    "5": {
+      "size": 2544,
+      "percentage": 5.13,
+      "top_terms": [
+        [
+          "rate limit",
+          0.3215
+        ],
+        [
+          "api rate",
+          0.3215
+        ],
+        [
+          "limit",
+          0.3199
+        ],
+        [
+          "rate",
+          0.3194
+        ],
+        [
+          "api",
+          0.3002
+        ],
+        [
+          "limit check",
+          0.258
+        ],
+        [
+          "check passed",
+          0.258
+        ],
+        [
+          "passed",
+          0.2546
+        ],
+        [
+          "check",
+          0.1954
+        ],
+        [
+          "limit approaching",
+          0.1099
+        ]
+      ],
+      "representative": "API rate limit check passed"
+    },
+    "6": {
+      "size": 1494,
+      "percentage": 3.01,
+      "top_terms": [
+        [
+          "reloaded successfully",
+          0.467
+        ],
+        [
+          "reloaded",
+          0.467
+        ],
+        [
+          "configuration reloaded",
+          0.467
+        ],
+        [
+          "configuration",
+          0.4508
+        ],
+        [
+          "successfully",
+          0.3777
+        ],
+        [
+          "zagreb",
+          0.0
+        ],
+        [
+          "z",
+          0.0
+        ],
+        [
+          "acknowledged",
+          0.0
+        ],
+        [
+          "year",
+          0.0
+        ],
+        [
+          "absolutely",
+          0.0
+        ]
+      ],
+      "representative": "Configuration reloaded successfully"
+    },
+    "7": {
+      "size": 1740,
+      "percentage": 3.51,
+      "top_terms": [
+        [
+          "query completed",
+          0.4889
+        ],
+        [
+          "database query",
+          0.4889
+        ],
+        [
+          "query",
+          0.4511
+        ],
+        [
+          "completed",
+          0.4086
+        ],
+        [
+          "database",
+          0.3893
+        ],
+        [
+          "z",
+          0.0
+        ],
+        [
+          "acknowledged",
+          0.0
+        ],
+        [
+          "year",
+          0.0
+        ],
+        [
+          "absolutely",
+          0.0
+        ],
+        [
+          "abu",
+          0.0
+        ]
+      ],
+      "representative": "Database query completed in 204ms"
+    },
+    "8": {
+      "size": 1608,
+      "percentage": 3.24,
+      "top_terms": [
+        [
+          "created user",
+          0.4767
+        ],
+        [
+          "session created",
+          0.4766
+        ],
+        [
+          "created",
+          0.4744
+        ],
+        [
+          "session",
+          0.4426
+        ],
+        [
+          "user",
+          0.3532
+        ],
+        [
+          "zagreb",
+          0.0
+        ],
+        [
+          "z",
+          0.0
+        ],
+        [
+          "acknowledged",
+          0.0
+        ],
+        [
+          "year",
+          0.0
+        ],
+        [
+          "absolutely",
+          0.0
+        ]
+      ],
+      "representative": "Session created for user usr_81444"
+    },
+    "9": {
+      "size": 1602,
+      "percentage": 3.23,
+      "top_terms": [
+        [
+          "systems operational",
+          0.3921
+        ],
+        [
+          "check systems",
+          0.3921
+        ],
+        [
+          "health check",
+          0.392
+        ],
+        [
+          "operational",
+          0.3902
+        ],
+        [
+          "systems",
+          0.3895
+        ],
+        [
+          "health",
+          0.3894
+        ],
+        [
+          "check",
+          0.2884
+        ],
+        [
+          "acknowledged",
+          0.0
+        ],
+        [
+          "year",
+          0.0
+        ],
+        [
+          "absolutely",
+          0.0
+        ]
+      ],
+      "representative": "Health check: all systems operational"
+    }
+  },
+  "saved_at": "2026-04-09T13:58:40.526912"
+}

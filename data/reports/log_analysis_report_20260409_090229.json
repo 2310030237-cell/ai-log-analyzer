@@ -1,0 +1,191 @@
+{
+  "report_name": "log_analysis_report_20260409_090229",
+  "generated_at": "2026-04-09T09:02:30.070697",
+  "aggregations": {
+    "total_records": 378,
+    "processing_timestamp": "2026-04-09T09:02:28.031257",
+    "level_distribution": {
+      "INFO": 350,
+      "ERROR": 26,
+      "CRITICAL": 2
+    },
+    "hourly_distribution": {
+      "9": 378
+    },
+    "daily_counts": {
+      "2026-04-09": 378
+    },
+    "error_count": 28,
+    "error_rate": 7.41,
+    "time_bucket_distribution": {
+      "morning": 378,
+      "night": 0,
+      "afternoon": 0,
+      "evening": 0
+    }
+  },
+  "anomaly_summary": {
+    "total_records": 378,
+    "total_anomalies": 19,
+    "anomaly_rate": 5.03,
+    "severity_distribution": {
+      "medium": 17,
+      "high": 2,
+      "critical": 0,
+      "normal": 0
+    },
+    "score_stats": {
+      "mean": 0.1765,
+      "std": 0.0872,
+      "anomaly_threshold": -0.0034
+    },
+    "top_anomalous_features": {
+      "has_error_keyword": 3.3603,
+      "word_count": 2.5839,
+      "message_length": 1.4474,
+      "severity": 0.7521,
+      "special_char_count": 0.5984,
+      "uppercase_ratio": 0.1571,
+      "has_number": 0.0921,
+      "hour": 0.0,
+      "day_of_week": 0.0,
+      "minute_of_day": 0.0
+    }
+  },
+  "pattern_summary": {
+    "n_patterns": 10,
+    "algorithm": "kmeans",
+    "patterns": {
+      "pattern_0": {
+        "size": 18,
+        "percentage": 4.76,
+        "top_keywords": [
+          "lib ssl",
+          "lib",
+          "vmauthd lib",
+          "ssl",
+          "vmauthd"
+        ],
+        "representative_message": "Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,lib/ssl: curves list prime256v1:secp384r1:secp521r1"
+      },
+      "pattern_1": {
+        "size": 235,
+        "percentage": 62.17,
+        "top_keywords": [
+          "information",
+          "service",
+          "id",
+          "windows",
+          "event"
+        ],
+        "representative_message": "Level,Date and Time,Source,Event ID,Task Category"
+      },
+      "pattern_2": {
+        "size": 12,
+        "percentage": 3.17,
+        "top_keywords": [
+          "msi client",
+          "driverstore",
+          "transaction c",
+          "transaction",
+          "client process"
+        ],
+        "representative_message": "Information,4/2/2026 12:48:50 PM,MsiInstaller,1042,None,Ending a Windows Installer transaction: C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_5c8ff28acd75bc32\\x64\\HPDCSetup."
+      },
+      "pattern_3": {
+        "size": 30,
+        "percentage": 7.94,
+        "top_keywords": [
+          "user",
+          "auditing user",
+          "security auditing",
+          "success pm",
+          "user account"
+        ],
+        "representative_message": "Audit Success,4/2/2026 2:27:13 PM,Microsoft-Windows-Security-Auditing,4798,User Account Management,\"A user's local group membership was enumerated."
+      },
+      "pattern_4": {
+        "size": 21,
+        "percentage": 5.56,
+        "top_keywords": [
+          "wer",
+          "windows wer",
+          "programdata microsoft",
+          "c programdata",
+          "programdata"
+        ],
+        "representative_message": "\\\\?\\C:\\ProgramData\\Microsoft\\Windows\\WER\\Temp\\WER.374499e0-95f2-49b0-8215-a862e30a903e.tmp.mdmp"
+      },
+      "pattern_5": {
+        "size": 12,
+        "percentage": 3.17,
+        "top_keywords": [
+          "config",
+          "file",
+          "roaming vmware",
+          "systemprofile appdata",
+          "systemprofile"
+        ],
+        "representative_message": "Information,4/2/2026 12:47:16 PM,vmauthd,1000,None,PREF Optional preferences file not found at C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\VMware\\preferences.ini. Using default values."
+      },
+      "pattern_6": {
+        "size": 9,
+        "percentage": 2.38,
+        "top_keywords": [
+          "dll msft",
+          "msft",
+          "dll",
+          "sppobjs",
+          "system32 sppobjs"
+        ],
+        "representative_message": "C:\\WINDOWS\\system32\\sppwinob.dll, msft:spp/windowsfunctionality/agent/7.0, 0x00000000, 0x00000000"
+      },
+      "pattern_7": {
+        "size": 14,
+        "percentage": 3.7,
+        "top_keywords": [
+          "product",
+          "control service",
+          "display control",
+          "hp display",
+          "product hp"
+        ],
+        "representative_message": "Information,4/2/2026 12:48:50 PM,MsiInstaller,1033,None,\"Windows Installer installed the product. Product Name: HP Display Control Service. Product Version: 5.3.72.0. Product Language: 1033. Manufactu"
+      },
+      "pattern_8": {
+        "size": 15,
+        "percentage": 3.97,
+        "top_keywords": [
+          "comm",
+          "comm recovery",
+          "hp comm",
+          "recovery",
+          "hp"
+        ],
+        "representative_message": "Information,4/2/2026 2:05:33 PM,HP Comm Recovery,1,None,Resume from Connected Standby"
+      },
+      "pattern_9": {
+        "size": 12,
+        "percentage": 3.17,
+        "top_keywords": [
+          "offline",
+          "migration succeeded",
+          "migration",
+          "spp offline",
+          "offline downlevel"
+        ],
+        "representative_message": "Information,4/2/2026 2:05:23 PM,Microsoft-Windows-Security-SPP,16394,None,Offline downlevel migration succeeded."
+      }
+    }
+  },
+  "nlp_summary": {
+    "total_messages": 378,
+    "insights": [
+      "[!] 18 messages contain CRITICAL severity indicators",
+      "[!] 41 messages contain HIGH severity indicators",
+      "Most frequent terms: information, window, microsoft, user, service",
+      "Vocabulary richness: 14.1%"
+    ],
+    "generated_at": "2026-04-09T09:02:28.995134"
+  }
+}

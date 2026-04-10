@@ -1,0 +1,192 @@
+{
+  "report_name": "log_analysis_report_20260409_090415",
+  "generated_at": "2026-04-09T09:04:15.608563",
+  "aggregations": {
+    "total_records": 8744,
+    "processing_timestamp": "2026-04-09T09:03:20.422443",
+    "level_distribution": {
+      "INFO": 8601,
+      "ERROR": 92,
+      "WARNING": 38,
+      "CRITICAL": 13
+    },
+    "hourly_distribution": {
+      "9": 8744
+    },
+    "daily_counts": {
+      "2026-04-09": 8744
+    },
+    "error_count": 105,
+    "error_rate": 1.2,
+    "time_bucket_distribution": {
+      "morning": 8744,
+      "night": 0,
+      "afternoon": 0,
+      "evening": 0
+    }
+  },
+  "anomaly_summary": {
+    "total_records": 8744,
+    "total_anomalies": 438,
+    "anomaly_rate": 5.01,
+    "severity_distribution": {
+      "medium": 363,
+      "high": 75,
+      "critical": 0,
+      "normal": 0
+    },
+    "score_stats": {
+      "mean": 0.1772,
+      "std": 0.0793,
+      "anomaly_threshold": -0.0
+    },
+    "top_anomalous_features": {
+      "has_error_keyword": 5.0593,
+      "word_count": 1.2732,
+      "message_length": 1.1234,
+      "special_char_count": 0.5858,
+      "severity": 0.4925,
+      "uppercase_ratio": 0.2641,
+      "has_number": 0.13,
+      "hour": 0.0,
+      "day_of_week": 0.0,
+      "minute_of_day": 0.0
+    }
+  },
+  "pattern_summary": {
+    "n_patterns": 10,
+    "algorithm": "kmeans",
+    "patterns": {
+      "pattern_0": {
+        "size": 959,
+        "percentage": 10.97,
+        "top_keywords": [
+          "singapore",
+          "singapore airlines",
+          "airlines",
+          "flight",
+          "airlines true"
+        ],
+        "representative_message": "Flight was amazing,Alison Soetantyo,2024-03-01,Singapore Airlines,True,\"  Flight was amazing. The crew onboard this flight were very welcoming, and gave a good atmosphere. The crew serving my aisle go"
+      },
+      "pattern_1": {
+        "size": 1543,
+        "percentage": 17.65,
+        "top_keywords": [
+          "doha",
+          "qatar",
+          "qatar airways",
+          "airways",
+          "airways true"
+        ],
+        "representative_message": "\u201cmarred by inconveniences\u201d,Mary Le,2024-03-02,Qatar Airways,False,\" The delay of my flight from Haneda to Doha caused a bit of chaos upon arrival. Despite my efforts to reach the gate promptly, I was "
+      },
+      "pattern_2": {
+        "size": 778,
+        "percentage": 8.9,
+        "top_keywords": [
+          "france",
+          "air france",
+          "paris",
+          "air",
+          "france true"
+        ],
+        "representative_message": "cannot overstate my disappointment,Ed Stuyfbergen,2024-02-11,Air France,False,\" I cannot overstate my disappointment with Air France. They are certainly the most incompetent airline I've ever flown (t"
+      },
+      "pattern_3": {
+        "size": 858,
+        "percentage": 9.81,
+        "top_keywords": [
+          "tokyo",
+          "korean",
+          "korean air",
+          "ana",
+          "japan"
+        ],
+        "representative_message": "Title,Name,Review Date,Airline,Verified,Reviews,Type of Traveller,Month Flown,Route,Class,Seat Comfort,Staff Service,Food & Beverages,Inflight Entertainment,Value For Money,Overall Rating,Recommended"
+      },
+      "pattern_4": {
+        "size": 524,
+        "percentage": 5.99,
+        "top_keywords": [
+          "business",
+          "business class",
+          "class",
+          "flight",
+          "lounge"
+        ],
+        "representative_message": "regional seat was really uncomfortable,L Hee,2024-02-16,Singapore Airlines,True,\"  I was one of the last business class passengers to board, Went to my seat and no offer of pre departure drinks or hot"
+      },
+      "pattern_5": {
+        "size": 748,
+        "percentage": 8.55,
+        "top_keywords": [
+          "cathay",
+          "kong",
+          "hong kong",
+          "hong",
+          "pacific"
+        ],
+        "representative_message": "No refund is forthcoming,M Garrett,2018-09-25,Singapore Airlines,True,  Could not fault the airline until they cancelled a flight from Singapore to Hong Kong on 16th September 2018. This was due to a "
+      },
+      "pattern_6": {
+        "size": 1278,
+        "percentage": 14.62,
+        "top_keywords": [
+          "emirates",
+          "dubai",
+          "emirates true",
+          "flight",
+          "dubai economy"
+        ],
+        "representative_message": "certainly not a premium airline,E Galetski,2024-03-04,Emirates,True,\"  Our BKK-DXB flight was delayed for 18 hours and as a result we missed our DXB WAW connecting flight. We were offered a long fligh"
+      },
+      "pattern_7": {
+        "size": 251,
+        "percentage": 2.87,
+        "top_keywords": [
+          "information",
+          "windows",
+          "microsoft",
+          "information pm",
+          "pm"
+        ],
+        "representative_message": "Information,4/2/2026 2:05:39 PM,Universal Print,1,None,\"Initialization Successful. Enabled=false, CloudPrintSolution=Unknown, DiscoveryEndpoint=, OAuthAuthority=, OAuthClientId=, DiscoveryResourceId=,"
+      },
+      "pattern_8": {
+        "size": 279,
+        "percentage": 3.19,
+        "top_keywords": [
+          "eva",
+          "eva air",
+          "taipei",
+          "air",
+          "air true"
+        ],
+        "representative_message": "They left everyone stranded,Jeremy Allerton,2020-04-20,Emirates,True,\"  Booked a ticket from Bangkok to London on 30 March. 23rd March got an email saying it was cancelled. They left everyone stranded"
+      },
+      "pattern_9": {
+        "size": 1526,
+        "percentage": 17.45,
+        "top_keywords": [
+          "turkish",
+          "istanbul",
+          "turkish airlines",
+          "airlines",
+          "flight"
+        ],
+        "representative_message": "refused to compensate the costs,S Han,2023-11-01,Singapore Airlines,True,\"  Seats that we paid for and confirmed very much earlier had been unfairly re-assigned later on to another person who was thei"
+      }
+    }
+  },
+  "nlp_summary": {
+    "total_messages": 8744,
+    "insights": [
+      "[!] 121 messages contain CRITICAL severity indicators",
+      "[!] 878 messages contain HIGH severity indicators",
+      "Most frequent terms: flight, class, airline, economy, service",
+      "Vocabulary richness: 3.1%"
+    ],
+    "generated_at": "2026-04-09T09:03:59.847963"
+  }
+}
